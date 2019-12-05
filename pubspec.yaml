@@ -29,6 +29,7 @@ dependencies:
   firebase_auth: ^0.14.0+9
   get_it: ^1.0.3+2
   image_picker_saver: ^0.1.0
+  flutter_spinkit: "^4.1.0"
 
 
 dev_dependencies:

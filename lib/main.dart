@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        initialRoute: '/',
+        initialRoute: '/auth',
         title: 'Product App',
         theme: ThemeData(),
         onGenerateRoute: Router.generateRoute,
